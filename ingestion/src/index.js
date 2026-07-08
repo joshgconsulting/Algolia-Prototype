@@ -1,10 +1,7 @@
 import "dotenv/config";
 import { fetchXmlCatalog } from "./mock-sources/xmlCatalog.js";
 import { fetchKafkaUpdates } from "./mock-sources/kafkaTopic.js";
-import {
-  createPhpIDApiServer,
-  fetchAllProductIDs,
-} from "./mock-sources/phpIDApi.js";
+import { createPhpIDApiServer, fetchAllProductIDs } from "./mock-sources/phpIDApi.js";
 import { reconcile } from "./merge/reconcile.js";
 import { pushToAlgolia } from "./algolia/pushRecords.js";
 import { logger } from "./merge/logger.js";

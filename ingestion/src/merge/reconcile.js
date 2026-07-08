@@ -18,17 +18,13 @@ export function reconcile(catalog, kafkaUpdates, liveProductIDs) {
 
     if (!update) {
       incompleteAwaitingKafka.push(entry.objectID);
-      logger.log(
-        "SYNC_GAP", `${entry.objectID} ("${entry.name}") is in the catalog but has no Kafka update - excluding from this run, awaiting enrichment.`
-      );
+      logger.log("SYNC_GAP", `${entry.objectID} ("${entry.name}") is in the catalog but has no Kafka update - excluding from this run, awaiting enrichment.`);
       continue;
     }
 
     // Catalog price is the source of truth.
     if (update.price !== undefined && update.price !== entry.price) {
-      logger.log(
-        "SYNC_GAP", `${entry.objectID}: catalog price (${entry.price}) and Kafka price (${update.price}) disagree - using catalog value per source-of-truth rule.`
-      );
+      logger.log("SYNC_GAP", `${entry.objectID}: catalog price (${entry.price}) and Kafka price (${update.price}) disagree - using catalog value per source-of-truth rule.`);
     }
 
     const record = {
@@ -57,9 +53,7 @@ export function reconcile(catalog, kafkaUpdates, liveProductIDs) {
   );
 
   for (const id of pendingCatalogSync) {
-    logger.log(
-      "PENDING_CATALOG_SYNC", `${id} exists on the live site but has not yet appeared in the catalog - will be picked up on a future ingestion run.`
-    );
+    logger.log("PENDING_CATALOG_SYNC", `${id} exists on the live site but has not yet appeared in the catalog - will be picked up on a future ingestion run.`);
   }
 
   // Catalog rows missing from the live API should be removed from Algolia.
@@ -68,26 +62,19 @@ export function reconcile(catalog, kafkaUpdates, liveProductIDs) {
     .filter((id) => !liveIDSet.has(id));
 
   for (const id of toRemoveFromIndex) {
-    logger.log(
-      "REMOVED_FROM_LIVE", `${id} is in the catalog but no longer exists on the live site - flagged for removal from the Algolia index.`
-    );
+    logger.log("REMOVED_FROM_LIVE", `${id} is in the catalog but no longer exists on the live site - flagged for removal from the Algolia index.`);
   }
 
   // Protect against sending the same objectID in both save and delete lists.
   const recordIDs = new Set(records.map((record) => record.objectID));
   const overlap = toRemoveFromIndex.filter((id) => recordIDs.has(id));
   if (overlap.length > 0) {
-    logger.error(
-      `Invariant violated: ${overlap.length} objectIDs appear in both records-to-save and records-to-remove: ${overlap.join(", ")}. This would cause records to be saved then immediately deleted.`
-    );
-    throw new Error(
-      "reconcile() produced overlapping save/delete sets - aborting to avoid silent data loss."
-    );
+    logger.error(`Invariant violated: ${overlap.length} objectIDs appear in both records-to-save and records-to-remove: ${overlap.join(", ")}. This would cause records to be saved then immediately deleted.`);
+    
+    throw new Error("reconcile() produced overlapping save/delete sets - aborting to avoid silent data loss.");
   }
 
-  logger.log(
-    "INFO", `Reconciliation complete: ${records.length} records ready to index, ${incompleteAwaitingKafka.length} awaiting Kafka enrichment, ${pendingCatalogSync.length} pending catalog sync, ${toRemoveFromIndex.length} flagged for index removal.`
-  );
+  logger.log("INFO", `Reconciliation complete: ${records.length} records ready to index, ${incompleteAwaitingKafka.length} awaiting Kafka enrichment, ${pendingCatalogSync.length} pending catalog sync, ${toRemoveFromIndex.length} flagged for index removal.`);
 
   return {
     records,

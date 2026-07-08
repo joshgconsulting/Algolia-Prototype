@@ -64,9 +64,7 @@ async function fetchPage(baseUrl, page) {
   if (res.status === 429) {
     const retryAfterHeader = res.headers.get("Retry-After");
     const retryAfterSeconds = retryAfterHeader ? Number(retryAfterHeader) : 1;
-    console.warn(
-      `[phpIDApi] Rate limited on page ${page}, retrying after ${retryAfterSeconds}s`
-    );
+    console.warn(`[phpIDApi] Rate limited on page ${page}, retrying after ${retryAfterSeconds}s`);
 
     await sleep(retryAfterSeconds * 1000);
 
@@ -74,9 +72,7 @@ async function fetchPage(baseUrl, page) {
   }
 
   if (!res.ok) {
-    throw new Error(
-      `[phpIDApi] Unexpected error fetching page ${page}: ${res.status} ${res.statusText}`
-    );
+    throw new Error(`[phpIDApi] Unexpected error fetching page ${page}: ${res.status} ${res.statusText}`);
   }
 
   return res.json();

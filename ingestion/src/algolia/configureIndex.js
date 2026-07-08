@@ -30,12 +30,8 @@ async function main() {
   const index = getAlgoliaIndex();
 
   if (!index) {
-    logger.log(
-      "INFO", "ALGOLIA_APP_ID / ALGOLIA_ADMIN_API_KEY not set - cannot configure a live index. Add real credentials to .env and re-run."
-    );
-    logger.log(
-      "INFO", `[DRY RUN] Would apply settings:\n${JSON.stringify(settings, null, 2)}`
-    );
+    logger.log("INFO", "ALGOLIA_APP_ID / ALGOLIA_ADMIN_API_KEY not set - cannot configure a live index. Add real credentials to .env and re-run.");
+    logger.log("INFO", `[DRY RUN] Would apply settings:\n${JSON.stringify(settings, null, 2)}`);
     return;
   }
 
@@ -43,9 +39,7 @@ async function main() {
     await index.setSettings(settings);
 
     logger.log("INFO", "Index settings applied successfully.");
-    logger.log(
-      "INFO", "Verify in the Algolia dashboard under Search > Configuration for the index."
-    );
+    logger.log("INFO", "Verify in the Algolia dashboard under Search > Configuration for the index.");
 
   } catch (err) {
     logger.error(`Failed to apply index settings: ${extractErrorMessage(err)}`);
