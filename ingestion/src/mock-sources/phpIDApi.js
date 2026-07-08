@@ -67,7 +67,9 @@ async function fetchPage(baseUrl, page) {
     console.warn(
       `[phpIDApi] Rate limited on page ${page}, retrying after ${retryAfterSeconds}s`
     );
+
     await sleep(retryAfterSeconds * 1000);
+
     return fetchPage(baseUrl, page);
   }
 

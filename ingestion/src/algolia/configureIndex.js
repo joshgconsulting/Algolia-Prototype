@@ -20,7 +20,7 @@ const settings = {
     "rating",
   ],
 
-  // Popularity and rating break ties after textual relevance.
+  // Tie-breakers after Algolia's text relevance.
   customRanking: ["desc(popularity)", "desc(rating)"],
 
   attributesToSnippet: ["description:20"],
@@ -41,10 +41,12 @@ async function main() {
 
   try {
     await index.setSettings(settings);
+
     logger.log("INFO", "Index settings applied successfully.");
     logger.log(
       "INFO", "Verify in the Algolia dashboard under Search > Configuration for the index."
     );
+
   } catch (err) {
     logger.error(`Failed to apply index settings: ${extractErrorMessage(err)}`);
     throw err;

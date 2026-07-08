@@ -14,6 +14,7 @@ export async function pushToAlgolia(records, toRemoveIds) {
     logger.log(
       "INFO", `[DRY RUN] Would save ${records.length} records and delete ${toRemoveIds.length} records.`
     );
+
     return { saved: 0, deleted: 0, dryRun: true };
   }
 

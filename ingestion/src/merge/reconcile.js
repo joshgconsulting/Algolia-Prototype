@@ -9,7 +9,7 @@ export function reconcile(catalog, kafkaUpdates, liveProductIDs) {
   const incompleteAwaitingKafka = [];
 
   for (const entry of catalog) {
-    // Never save a product that will also be removed from the index.
+    // A product that is not live should only be removed, never saved.
     if (!liveIDSet.has(entry.objectID)) {
       continue;
     }
@@ -24,7 +24,7 @@ export function reconcile(catalog, kafkaUpdates, liveProductIDs) {
       continue;
     }
 
-    // The catalog is authoritative for price conflicts.
+    // Catalog price is the source of truth.
     if (update.price !== undefined && update.price !== entry.price) {
       logger.log(
         "SYNC_GAP", `${entry.objectID}: catalog price (${entry.price}) and Kafka price (${update.price}) disagree - using catalog value per source-of-truth rule.`
@@ -51,27 +51,29 @@ export function reconcile(catalog, kafkaUpdates, liveProductIDs) {
     records.push(record);
   }
 
-  // Live products without catalog data cannot be indexed yet.
+  // Live IDs without catalog rows are not indexable yet.
   const pendingCatalogSync = liveProductIDs.filter(
     (id) => !catalogIDSet.has(id)
   );
+
   for (const id of pendingCatalogSync) {
     logger.log(
       "PENDING_CATALOG_SYNC", `${id} exists on the live site but has not yet appeared in the catalog - will be picked up on a future ingestion run.`
     );
   }
 
-  // Remove catalog products that are no longer live.
+  // Catalog rows missing from the live API should be removed from Algolia.
   const toRemoveFromIndex = catalog
     .map((cat) => cat.objectID)
     .filter((id) => !liveIDSet.has(id));
+
   for (const id of toRemoveFromIndex) {
     logger.log(
       "REMOVED_FROM_LIVE", `${id} is in the catalog but no longer exists on the live site - flagged for removal from the Algolia index.`
     );
   }
 
-  // Saving and deleting the same record would silently drop it.
+  // Protect against sending the same objectID in both save and delete lists.
   const recordIDs = new Set(records.map((record) => record.objectID));
   const overlap = toRemoveFromIndex.filter((id) => recordIDs.has(id));
   if (overlap.length > 0) {

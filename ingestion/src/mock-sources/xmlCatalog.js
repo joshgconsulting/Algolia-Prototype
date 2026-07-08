@@ -16,7 +16,7 @@ function normalizeCategories(raw) {
 }
 
 function normalizeHierarchicalCategories(raw) {
-  // Every product must have at least one category level.
+  // lvl0 is required for Algolia's category hierarchy.
   if (!raw.lvl0) {
     throw new Error(
       "Catalog row is missing required hierarchicalCategories.lvl0"
