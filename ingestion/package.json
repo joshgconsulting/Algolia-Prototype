@@ -1,0 +1,17 @@
+{
+  "name": "ingestion",
+  "version": "1.0.0",
+  "description": "Data ingestion pipeline reconciling PHP ID API, XML catalog, and Kafka updates into a unified Algolia index",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "configure": "node src/algolia/configureIndex.js"
+  },
+  "dependencies": {
+    "algoliasearch": "^4.23.3",
+    "fast-xml-parser": "^4.3.6",
+    "express": "^4.19.2",
+    "dotenv": "^16.4.5"
+  }
+}

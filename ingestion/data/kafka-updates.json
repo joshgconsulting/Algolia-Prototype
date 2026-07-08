@@ -1,0 +1,2354 @@
+[
+  {
+    "objectID": "1696302",
+    "type": "Online data backup",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/3-year-unlimited-cloud-storage-service-activation-card-other/1696302.p?id=1219066776306&skuId=1696302&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 10000,
+    "rating": 2
+  },
+  {
+    "objectID": "5353024",
+    "type": "Drone accessory",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/3dr-backpack-for-solo-black/5353024.p?id=1219650465782&skuId=5353024&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9998,
+    "rating": 5
+  },
+  {
+    "objectID": "5357011",
+    "type": "Drone accessory",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/3dr-propellers-for-3dr-solo-drones-2-pack-black/5357011.p?id=1219650465778&skuId=5357011&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9997,
+    "rating": 2,
+    "price": 14.95
+  },
+  {
+    "objectID": "5352061",
+    "type": "Drone accessory",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/3dr-solo-gimbal-black/5352061.p?id=1219650467156&skuId=5352061&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9996,
+    "rating": 2
+  },
+  {
+    "objectID": "9274741",
+    "type": "Bags",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/3m-eureka-rr-pet-micro-allergen-vacuum-bag-for-select-eureka-vacuums-3-pack/9274741.p?id=1218072892585&skuId=9274741&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9994,
+    "rating": 3
+  },
+  {
+    "objectID": "8508064",
+    "type": "Belts",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/3m-filtrete-bissell-replacement-belt/8508064.p?id=1186005357079&skuId=8508064&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9993,
+    "rating": 1,
+    "price": 4.99
+  },
+  {
+    "objectID": "9940451",
+    "type": "Bags",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/3m-filtrete-devil-tattoo-vacuum-bag-3-pack/9940451.p?id=1218198436866&skuId=9940451&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9992,
+    "rating": 5
+  },
+  {
+    "objectID": "8507948",
+    "type": "Belts",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/3m-filtrete-eureka-r-replacement-belt-for-select-eureka-vacuums/8507948.p?id=1186005356352&skuId=8507948&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9991,
+    "rating": 1
+  },
+  {
+    "objectID": "8507939",
+    "type": "Belts",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/3m-filtrete-eureka-u-replacement-belt/8507939.p?id=1186005356287&skuId=8507939&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9990,
+    "rating": 3,
+    "price": 2.99
+  },
+  {
+    "objectID": "8507644",
+    "type": "Bags",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/3m-filtrete-hoover-a-micro-allergen-vacuum-bag/8507644.p?id=1186005355618&skuId=8507644&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9989,
+    "rating": 5,
+    "price": 6.99
+  },
+  {
+    "objectID": "9905762",
+    "type": "Bags",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/3m-filtrete-hoover-w2-microallergen-vacuum-bag-3-pack/9905762.p?id=1218193208999&skuId=9905762&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9988,
+    "rating": 5
+  },
+  {
+    "objectID": "8507993",
+    "type": "Belts",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/3m-filtrete-hoover-windtunnel-replacement-belt/8507993.p?id=1186005356689&skuId=8507993&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9987,
+    "rating": 3,
+    "price": 4.99
+  },
+  {
+    "objectID": "5425773",
+    "type": "Belts",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/3m-filtrete-vacuum-belt-for-select-hoover-t-series-upright-vacuums/5425773.p?id=1218652578136&skuId=5425773&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9986,
+    "rating": 2,
+    "price": 5.99
+  },
+  {
+    "objectID": "9274732",
+    "type": "Bags",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/3m-hoover-y-z-pet-micro-allergen-vacuum-bag-for-select-hoover-vacuums-3-pack/9274732.p?id=1218072891545&skuId=9274732&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9985,
+    "rating": 3
+  },
+  {
+    "objectID": "2206525",
+    "type": "Speaker harness",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/72-9301-speaker-wire-harness-adapter-for-most-plymouth-dodge-and-mitsubishi-vehicles-multi/2206525.p?id=1051826167289&skuId=2206525&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9984,
+    "rating": 1
+  },
+  {
+    "objectID": "8610161",
+    "type": "Google os",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/acer-11-6-chromebook-intel-celeron-2gb-memory-16gb-emmc-flash-memory-moonstone-white/8610161.p?id=1219351773817&skuId=8610161&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9983,
+    "rating": 4,
+    "price": 169.0
+  },
+  {
+    "objectID": "4020462",
+    "type": "So laptops",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/acer-11-6-chromebook-intel-celeron-4gb-memory-16gb-solid-state-drive-gray/4020462.p?id=1219616451773&skuId=4020462",
+    "free_shipping": true,
+    "popularity": 9982,
+    "rating": 2
+  },
+  {
+    "objectID": "4262900",
+    "type": "Google os",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/acer-15-6-chromebook-intel-celeron-4gb-memory-16gb-solid-state-drive-linen-white/4262900.p?id=1219730564516&skuId=4262900&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9980,
+    "rating": 2
+  },
+  {
+    "objectID": "9275148",
+    "type": "So monitors",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/acer-19-led-monitor-black/9275148.p?id=1219010353404&skuId=9275148",
+    "free_shipping": true,
+    "popularity": 9979,
+    "rating": 5,
+    "price": 109.99
+  },
+  {
+    "objectID": "8723085",
+    "type": "So monitors",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/acer-19-led-monitor-black/8723085.p?id=1219361551818&skuId=8723085",
+    "free_shipping": false,
+    "popularity": 9978,
+    "rating": 3
+  },
+  {
+    "objectID": "2792013",
+    "type": "Flat screen monitor",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/acer-21-5-ips-lcd-hd-monitor-black/2792013.p?id=1219558784092&skuId=2792013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9977,
+    "rating": 4
+  },
+  {
+    "objectID": "5009268",
+    "type": "So laptops",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/acer-aspire-15-6-laptop-intel-celeron-4gb-memory-500gb-hard-drive-black/5009268.p?id=1219106277887&skuId=5009268",
+    "free_shipping": false,
+    "popularity": 9975,
+    "rating": 2,
+    "price": 359.99
+  },
+  {
+    "objectID": "4423600",
+    "type": "Burst skus",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/acer-aspire-15-6-laptop-intel-celeron-4gb-memory-500gb-hard-drive-diamond-black/4423600.p?id=1219746388802&skuId=4423600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9974,
+    "rating": 6,
+    "price": 249.99
+  },
+  {
+    "objectID": "5009222",
+    "type": "So laptops",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/acer-aspire-15-6-laptop-intel-core-i3-4gb-memory-500gb-hard-drive-red/5009222.p?id=1219106282657&skuId=5009222",
+    "free_shipping": false,
+    "popularity": 9973,
+    "rating": 6
+  },
+  {
+    "objectID": "5009277",
+    "type": "So laptops",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/acer-aspire-17-3-laptop-intel-core-i3-6gb-memory-500gb-hard-drive-steel-gray/5009277.p?id=1219106277450&skuId=5009277",
+    "free_shipping": false,
+    "popularity": 9972,
+    "rating": 3
+  },
+  {
+    "objectID": "2520045",
+    "type": "All in one computers",
+    "price_range": "500 - 2000",
+    "url": "http://www.bestbuy.com/site/acer-aspire-23-touch-screen-all-in-one-intel-core-i5-8gb-memory-2tb-hard-drive-black/2520045.p?id=1219547718151&skuId=2520045&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9971,
+    "rating": 1
+  },
+  {
+    "objectID": "4928044",
+    "type": "So laptops",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/acer-aspire-e-series-15-6-laptop-intel-pentium-4gb-memory-500gb-hard-drive-black/4928044.p?id=1219104954011&skuId=4928044",
+    "free_shipping": false,
+    "popularity": 9970,
+    "rating": 5
+  },
+  {
+    "objectID": "4503300",
+    "type": "Notebooks",
+    "price_range": "500 - 2000",
+    "url": "http://www.bestbuy.com/site/acer-aspire-r14-2-in-1-14-touch-screen-laptop-intel-core-i5-8gb-memory-256gb-solid-state-drive-black/4503300.p?id=1219755698811&skuId=4503300&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9969,
+    "rating": 1
+  },
+  {
+    "objectID": "2372026",
+    "type": "Cpu's",
+    "price_range": "500 - 2000",
+    "url": "http://www.bestbuy.com/site/acer-aspire-t-desktop-intel-core-i5-8gb-memory-2tb-hard-drive-black/2372026.p?id=1219539711783&skuId=2372026&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9967,
+    "rating": 2
+  },
+  {
+    "objectID": "4079087",
+    "type": "So tablet pc",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/acer-iconia-8-intel-atom-32gb-slate/4079087.p?id=1219618214120&skuId=4079087",
+    "free_shipping": false,
+    "popularity": 9965,
+    "rating": 1,
+    "price": 129.99
+  },
+  {
+    "objectID": "4379502",
+    "type": "Other android wifi",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/acer-iconia-tab-8-8-intel-atom-16gb-silver/4379502.p?id=1219740709367&skuId=4379502&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9964,
+    "rating": 5,
+    "price": 129.99
+  },
+  {
+    "objectID": "4281801",
+    "type": "Flat screen monitor",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/acer-s200hql-19-5-led-monitor-black/4281801.p?id=1219735500397&skuId=4281801&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9961,
+    "rating": 2
+  },
+  {
+    "objectID": "6987389",
+    "type": "Business cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/acme-made-bay-street-sleeve-for-11-6-chromebooks-black/6987389.p?id=1218819333557&skuId=6987389&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9960,
+    "rating": 6
+  },
+  {
+    "objectID": "4910915",
+    "type": "Photo video bags",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/acme-made-fillmore-100-camera-case-licorice-lime/4910915.p?id=1218575761021&skuId=4910915&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9959,
+    "rating": 1
+  },
+  {
+    "objectID": "4765048",
+    "type": "Outdoor speakers",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/acoustic-research-ar-hatteras-indoor-outdoor-wireless-bluetooth-stereo-speaker-black-silver/4765048.p?id=1219637494518&skuId=4765048&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9958,
+    "rating": 5
+  },
+  {
+    "objectID": "8524004",
+    "type": "Outdoor speakers",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/acoustic-research-pasadena-portable-bluetooth-rechargeable-speaker-system-black/8524004.p?id=1219692520015&skuId=8524004&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9957,
+    "rating": 4
+  },
+  {
+    "objectID": "6575821",
+    "type": "So usb memory",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/action-sport-drives-so-so-happy-cuddle-16gb-usb-2-0-flash-drive-multi/6575821.p?id=1218757818278&skuId=6575821",
+    "free_shipping": false,
+    "popularity": 9956,
+    "rating": 5
+  },
+  {
+    "objectID": "1896262",
+    "type": "Dsl hardware",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/actiontec-4-port-ethernet-broadband-router-with-wireless-n-black/1896262.p?id=1218299588547&skuId=1896262&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9955,
+    "rating": 6
+  },
+  {
+    "objectID": "5215483",
+    "type": "Multi media network",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/actiontec-500-mbps-powerline-home-theater-network-adapter-kit-white/5215483.p?id=1218625358741&skuId=5215483&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9954,
+    "rating": 3
+  },
+  {
+    "objectID": "6350009",
+    "type": "Ht networking",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/actiontec-mywirelesstv2-wireless-video-transmitter-and-receiver-black/6350009.p?id=1219209055268&skuId=6350009&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9953,
+    "rating": 6
+  },
+  {
+    "objectID": "5637023",
+    "type": "Ht misc",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/actiontec-screenbeam-mini-2-wireless-display-receiver-black/5637023.p?id=1219652224875&skuId=5637023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9951,
+    "rating": 4,
+    "price": 49.99
+  },
+  {
+    "objectID": "8847604",
+    "type": "Networking",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/actiontec-screenbeam-wireless-display-adapter-kit-black/8847604.p?id=1219053146480&skuId=8847604&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9950,
+    "rating": 2
+  },
+  {
+    "objectID": "7906033",
+    "type": "Toy 2 life character",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/activision-skylanders-superchargers-character-pack-steel-plated-smash-hit/7906033.p?id=1219686596604&skuId=7906033&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9949,
+    "rating": 6,
+    "price": 12.99
+  },
+  {
+    "objectID": "9984203",
+    "type": "So input devices",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/adesso-tru-form-media-contoured-ergonomic-keyboard-black/9984203.p?id=1218205382638&skuId=9984203",
+    "free_shipping": false,
+    "popularity": 9948,
+    "rating": 6
+  },
+  {
+    "objectID": "8283007",
+    "type": "Hr watch",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/adidas-fit-smart-band-heart-rate-large-black/8283007.p?id=1219321338011&skuId=8283007&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9947,
+    "rating": 3,
+    "price": 149.99
+  },
+  {
+    "objectID": "8486002",
+    "type": "Monitoring devices",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/adidas-micoach-heart-rate-monitor-black/8486002.p?id=1219339615431&skuId=8486002&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9946,
+    "rating": 5
+  },
+  {
+    "objectID": "8286004",
+    "type": "Monitoring devices",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/adidas-micoach-smart-ball-white-black/8286004.p?id=1219322452413&skuId=8286004&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9945,
+    "rating": 4,
+    "price": 199.99
+  },
+  {
+    "objectID": "8285023",
+    "type": "Monitoring devices",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/adidas-micoach-speed-cell-activity-monitor-green/8285023.p?id=1219321335257&skuId=8285023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9944,
+    "rating": 2
+  },
+  {
+    "objectID": "4712037",
+    "type": "Trend cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/adopted-folio-case-for-samsung-galaxy-s6-edge-cell-phones-black-gunmetal/4712037.p?id=1219638961523&skuId=4712037&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9943,
+    "rating": 2
+  },
+  {
+    "objectID": "8452148",
+    "type": "Trend cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/adopted-leather-folio-case-for-apple-iphone-6-and-6s-black/8452148.p?id=1219336309744&skuId=8452148&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9942,
+    "rating": 3
+  },
+  {
+    "objectID": "4424104",
+    "type": "Trend cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/adopted-leather-folio-case-for-apple-iphone-6-and-6s-blush-gold/4424104.p?id=1219746381034&skuId=4424104&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9941,
+    "rating": 6,
+    "price": 49.99
+  },
+  {
+    "objectID": "4424101",
+    "type": "Trend cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/adopted-leather-folio-case-for-apple-iphone-6-and-6s-brown-silver/4424101.p?id=1219746384491&skuId=4424101&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9940,
+    "rating": 5
+  },
+  {
+    "objectID": "8452157",
+    "type": "Trend cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/adopted-leather-folio-case-for-apple-iphone-6-plus-and-6s-plus-black/8452157.p?id=1219336309746&skuId=8452157&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9939,
+    "rating": 4
+  },
+  {
+    "objectID": "4424106",
+    "type": "Trend cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/adopted-leather-folio-case-for-apple-iphone-6-plus-and-6s-plus-blush-gold/4424106.p?id=1219746386183&skuId=4424106&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9938,
+    "rating": 4,
+    "price": 49.99
+  },
+  {
+    "objectID": "4424100",
+    "type": "Trend cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/adopted-leather-folio-case-for-apple-iphone-6-plus-and-6s-plus-brown-silver/4424100.p?id=1219746384623&skuId=4424100&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9937,
+    "rating": 6,
+    "price": 49.99
+  },
+  {
+    "objectID": "4424105",
+    "type": "Trend cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/adopted-leather-folio-case-for-apple-iphone-6-plus-and-6s-plus-charcoal-nickel/4424105.p?id=1219746388935&skuId=4424105&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9936,
+    "rating": 5
+  },
+  {
+    "objectID": "6703161",
+    "type": "Trend cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/adopted-leather-wrap-case-for-apple-iphone-5-and-5s-pewter-gunmetal/6703161.p?id=1219232098973&skuId=6703161&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9935,
+    "rating": 5
+  },
+  {
+    "objectID": "6703198",
+    "type": "Trend cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/adopted-leather-wrap-case-for-apple-iphone-5-and-5s-white-gold/6703198.p?id=1219232099479&skuId=6703198&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9934,
+    "rating": 6
+  },
+  {
+    "objectID": "8451871",
+    "type": "Trend cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/adopted-leather-wrap-case-for-apple-iphone-6-black/8451871.p?id=1219336310577&skuId=8451871&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9933,
+    "rating": 5
+  },
+  {
+    "objectID": "8451899",
+    "type": "Trend cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/adopted-leather-wrap-case-for-apple-iphone-6-saddle-olive-gunmetal/8451899.p?id=1219336314184&skuId=8451899&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9932,
+    "rating": 5
+  },
+  {
+    "objectID": "8452184",
+    "type": "Trend cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/adopted-leather-wrap-case-for-apple-iphone-6-white-gold/8452184.p?id=1219336313601&skuId=8452184&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9931,
+    "rating": 4,
+    "price": 39.99
+  },
+  {
+    "objectID": "8452166",
+    "type": "Trend cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/adopted-leather-wrap-case-for-apple-iphone-6-plus-and-6s-plus-black/8452166.p?id=1219336311595&skuId=8452166&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9930,
+    "rating": 4,
+    "price": 39.99
+  },
+  {
+    "objectID": "8452102",
+    "type": "Trend cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/adopted-leather-wrap-case-for-apple-iphone-6-plus-and-6s-plus-white-gold/8452102.p?id=1219336309747&skuId=8452102&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9929,
+    "rating": 2
+  },
+  {
+    "objectID": "8452139",
+    "type": "Trend cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/adopted-saddle-leather-folio-case-for-apple-iphone-6-plus-and-6s-plus-saddle-brown-silver/8452139.p?id=1219336311593&skuId=8452139&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9928,
+    "rating": 1
+  },
+  {
+    "objectID": "6703125",
+    "type": "Trend cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/adopted-snap-case-for-samsung-galaxy-s-5-cell-phones-navy-deep-navy/6703125.p?id=1219232098972&skuId=6703125&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9926,
+    "rating": 4
+  },
+  {
+    "objectID": "9926273",
+    "type": "Non ipad cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/adopted-soho-sleeve-for-most-tablets-up-to-10-ash-gray-gold/9926273.p?id=1219450379168&skuId=9926273&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9925,
+    "rating": 5
+  },
+  {
+    "objectID": "9925964",
+    "type": "Non ipad cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/adopted-soho-sleeve-for-most-tablets-up-to-10-black-gunmetal/9925964.p?id=1219450379163&skuId=9925964&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9924,
+    "rating": 5
+  },
+  {
+    "objectID": "9926401",
+    "type": "Non ipad cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/adopted-soho-sleeve-for-most-tablets-up-to-8-ash-gray-gold/9926401.p?id=1219450380806&skuId=9926401&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9923,
+    "rating": 1
+  },
+  {
+    "objectID": "9926396",
+    "type": "Non ipad cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/adopted-soho-sleeve-for-most-tablets-up-to-8-black-gunmetal/9926396.p?id=1219450381128&skuId=9926396&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9922,
+    "rating": 4
+  },
+  {
+    "objectID": "3788003",
+    "type": "Refurb apple product",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/airport-geek-squad-certified-refurbished-express-base-station-white/3788003.p?id=1219093520345&skuId=3788003&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9921,
+    "rating": 5,
+    "price": 59.99
+  },
+  {
+    "objectID": "3789002",
+    "type": "Refurb apple product",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/airport-geek-squad-certified-refurbished-extreme-wireless-base-station/3789002.p?id=1219093519519&skuId=3789002&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9920,
+    "rating": 1
+  },
+  {
+    "objectID": "2266129",
+    "type": "So air purification",
+    "price_range": "500 - 2000",
+    "url": "http://www.bestbuy.com/site/alen-breathesmart-air-purifier-white/2266129.p?id=1219071545899&skuId=2266129",
+    "free_shipping": false,
+    "popularity": 9919,
+    "rating": 6
+  },
+  {
+    "objectID": "2886946",
+    "type": "So air purification",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/alen-t500-tower-air-purifier-black/2886946.p?id=1219081257162&skuId=2886946",
+    "free_shipping": false,
+    "popularity": 9918,
+    "rating": 4
+  },
+  {
+    "objectID": "4550902",
+    "type": "Gaming laptops",
+    "price_range": "500 - 2000",
+    "url": "http://www.bestbuy.com/site/alienware-17-3-4k-ultra-hd-laptop-intel-core-i7-8gb-memory-1tb-hard-drive-128gb-solid-state-drive-epic-silver/4550902.p?id=1219765894082&skuId=4550902&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9917,
+    "rating": 3
+  },
+  {
+    "objectID": "9561097",
+    "type": "Gaming desktops",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/alienware-alpha-desktop-intel-core-i3-4gb-memory-500gb-hard-drive-black/9561097.p?id=1219424183258&skuId=9561097&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9916,
+    "rating": 5,
+    "price": 499.99
+  },
+  {
+    "objectID": "4769785",
+    "type": "Subs",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/alpine-12-dual-voice-coil-4-ohm-subwoofer-black/4769785.p?id=1218524494220&skuId=4769785&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9915,
+    "rating": 3
+  },
+  {
+    "objectID": "7551285",
+    "type": "Amps",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/alpine-500w-class-d-digital-mono-amplifier-with-low-pass-crossover-black/7551285.p?id=1218851199236&skuId=7551285&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9913,
+    "rating": 6
+  },
+  {
+    "objectID": "1807206",
+    "type": "Speakers",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/alpine-6-x-9-2-way-coaxial-car-speakers-with-polypropylene-cones-pair-black/1807206.p?id=1218293494853&skuId=1807206&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9912,
+    "rating": 4,
+    "price": 89.99
+  },
+  {
+    "objectID": "1416147",
+    "type": "Speakers",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/alpine-6-1-2-2-way-coaxial-car-speakers-with-polypropylene-cones-pair-black/1416147.p?id=1218256568420&skuId=1416147&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9910,
+    "rating": 3
+  },
+  {
+    "objectID": "1807251",
+    "type": "Speakers",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/alpine-6-1-2-2-way-component-car-speakers-with-poly-mica-cones-pair-black/1807251.p?id=1218293491912&skuId=1807251&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9909,
+    "rating": 1
+  },
+  {
+    "objectID": "9254006",
+    "type": "In dash navigation",
+    "price_range": "500 - 2000",
+    "url": "http://www.bestbuy.com/site/alpine-7-digital-media-receiver-apple-carplay-in-dash-receiver-black/9254006.p?id=1219405821712&skuId=9254006&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9908,
+    "rating": 4,
+    "price": 599.99
+  },
+  {
+    "objectID": "9597106",
+    "type": "Subs",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/alpine-8-powered-subwoofer-system-black/9597106.p?id=1219424288868&skuId=9597106&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9907,
+    "rating": 5
+  },
+  {
+    "objectID": "8815536",
+    "type": "Subs",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/alpine-bassline-12-single-voice-coil-4-ohm-subwoofer-black/8815536.p?id=1218902549936&skuId=8815536&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9906,
+    "rating": 3,
+    "price": 74.99
+  },
+  {
+    "objectID": "3992007",
+    "type": "Cd decks",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/alpine-cd-built-in-bluetooth-apple-ipod-and-satellite-radio-ready-in-dash-receiver-black/3992007.p?id=1219094924901&skuId=3992007&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9905,
+    "rating": 5
+  },
+  {
+    "objectID": "3657041",
+    "type": "So car stereo",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/alpine-cd-built-in-bluetooth-apple-ipod-satellite-radio-ready-in-dash-receiver-black/3657041.p?id=1219593469361&skuId=3657041",
+    "free_shipping": false,
+    "popularity": 9904,
+    "rating": 5
+  },
+  {
+    "objectID": "7551081",
+    "type": "Cd decks",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/alpine-cd-built-in-bluetooth-car-stereo-receiver-black/7551081.p?id=1218851194785&skuId=7551081&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9903,
+    "rating": 5
+  },
+  {
+    "objectID": "7576083",
+    "type": "Cd decks",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/alpine-cd-built-in-bluetooth-in-dash-deck-with-satellite-radio-tuner-black/7576083.p?id=1218851719988&skuId=7576083&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9902,
+    "rating": 2
+  },
+  {
+    "objectID": "4769803",
+    "type": "Amps",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/alpine-power-pack-180w-class-d-bridgeable-multichannel-amplifier-with-high-pass-filter-black/4769803.p?id=1218524495173&skuId=4769803&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9901,
+    "rating": 2
+  },
+  {
+    "objectID": "2305807",
+    "type": "Speakers",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/alpine-type-r-5-1-4-2-way-coaxial-car-speakers-with-hybrid-fiber-cones-pair-black/2305807.p?id=1218320406807&skuId=2305807&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9900,
+    "rating": 3
+  },
+  {
+    "objectID": "7551355",
+    "type": "Speakers",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/alpine-type-s-5-1-4-2-way-coaxial-car-speakers-with-poly-mica-cones-pair-black/7551355.p?id=1218853533848&skuId=7551355&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9899,
+    "rating": 5
+  },
+  {
+    "objectID": "6935031",
+    "type": "Wireless speakers",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/altec-lansing-boom-jacket-bluetooth-speaker-blue/6935031.p?id=1219667735228&skuId=6935031&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9898,
+    "rating": 3
+  },
+  {
+    "objectID": "4425700",
+    "type": "Wireless speakers",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/altec-lansing-boom-jacket-portable-bluetooth-speaker-cool-gray/4425700.p?id=1219746383265&skuId=4425700&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9896,
+    "rating": 1
+  },
+  {
+    "objectID": "6935086",
+    "type": "Wireless speakers",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/altec-lansing-mini-h2o-bluetooth-speaker-black/6935086.p?id=1219667736123&skuId=6935086&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9895,
+    "rating": 4
+  },
+  {
+    "objectID": "6935077",
+    "type": "Wireless speakers",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/altec-lansing-mini-h2o-bluetooth-speaker-orange/6935077.p?id=1219667738443&skuId=6935077&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9892,
+    "rating": 5
+  },
+  {
+    "objectID": "6935095",
+    "type": "Wireless speakers",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/altec-lansing-mini-h2o-bluetooth-speaker-red/6935095.p?id=1219667737922&skuId=6935095&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9891,
+    "rating": 4,
+    "price": 39.99
+  },
+  {
+    "objectID": "6935128",
+    "type": "Wireless speakers",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/altec-lansing-mini-life-jacket-bluetooth-speaker-blue/6935128.p?id=1219667737089&skuId=6935128&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9890,
+    "rating": 3
+  },
+  {
+    "objectID": "6935022",
+    "type": "Wireless speakers",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/altec-lansing-mini-life-jacket-bluetooth-speaker-cool-gray/6935022.p?id=1219667735229&skuId=6935022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9889,
+    "rating": 5
+  },
+  {
+    "objectID": "6935068",
+    "type": "Wireless speakers",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/altec-lansing-mini-life-jacket-bluetooth-speaker-red/6935068.p?id=1219667739287&skuId=6935068&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9888,
+    "rating": 2
+  },
+  {
+    "objectID": "4425801",
+    "type": "Wireless speakers",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/altec-lansing-mini-life-jacket-portable-bluetooth-speaker-black/4425801.p?id=1219746382681&skuId=4425801&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9887,
+    "rating": 1
+  },
+  {
+    "objectID": "4207126",
+    "type": "So iphone accy",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/altec-lansing-style-up-hard-shell-case-for-apple-iphone-6-and-6s-gold-dots/4207126.p?id=1219707307282&skuId=4207126",
+    "free_shipping": false,
+    "popularity": 9886,
+    "rating": 6,
+    "price": 16.99
+  },
+  {
+    "objectID": "2345164",
+    "type": "So furniture",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/altra-furniture-altramount-tv-stand-for-flat-panel-tvs-up-to-60-black/2345164.p?id=1218323020640&skuId=2345164",
+    "free_shipping": false,
+    "popularity": 9884,
+    "rating": 3
+  },
+  {
+    "objectID": "9846217",
+    "type": "So ent furn ups",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/altra-furniture-galaxy-tv-stand-with-mount-for-flat-panel-tvs-up-to-50-black/9846217.p?id=1219043331091&skuId=9846217",
+    "free_shipping": false,
+    "popularity": 9883,
+    "rating": 6
+  },
+  {
+    "objectID": "3511436",
+    "type": "So dig photo frame",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/aluratek-12-lcd-digital-photo-frame-black/3511436.p?id=1218897682724&skuId=3511436",
+    "free_shipping": false,
+    "popularity": 9882,
+    "rating": 4
+  },
+  {
+    "objectID": "6925348",
+    "type": "So dig photo frame",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/aluratek-14-lcd-digital-photo-frame-black/6925348.p?id=1218897682727&skuId=6925348",
+    "free_shipping": false,
+    "popularity": 9881,
+    "rating": 2
+  },
+  {
+    "objectID": "1954441",
+    "type": "So dig photo frame",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/aluratek-8-lcd-digital-photo-frame-black/1954441.p?id=1218897682728&skuId=1954441",
+    "free_shipping": false,
+    "popularity": 9879,
+    "rating": 6
+  },
+  {
+    "objectID": "4236915",
+    "type": "Wireless speakers",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/aluratek-bluetooth-audio-transmitter-white/4236915.p?id=1219711483005&skuId=4236915&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9878,
+    "rating": 2
+  },
+  {
+    "objectID": "8830217",
+    "type": "Otr microwaves",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/amana-1-5-cu-ft-over-the-range-microwave-stainless-steel/8830217.p?id=1218910867369&skuId=8830217&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9876,
+    "rating": 2
+  },
+  {
+    "objectID": "7077005",
+    "type": "Dishwasher",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/amana-24-tall-tub-built-in-dishwasher-stainless-steel/7077005.p?id=1219250430865&skuId=7077005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9875,
+    "rating": 5
+  },
+  {
+    "objectID": "7077014",
+    "type": "So dishwasher soap",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/amana-24-tall-tub-built-in-dishwasher-white/7077014.p?id=1219250430548&skuId=7077014",
+    "free_shipping": false,
+    "popularity": 9874,
+    "rating": 5,
+    "price": 319.99
+  },
+  {
+    "objectID": "1614013",
+    "type": "Side by side",
+    "price_range": "500 - 2000",
+    "url": "http://www.bestbuy.com/site/amana-25-4-cu-ft-side-by-side-refrigerator-with-thru-the-door-ice-and-water-stainless-steel/1614013.p?id=1219057245144&skuId=1614013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9873,
+    "rating": 5
+  },
+  {
+    "objectID": "1609858",
+    "type": "Side by side",
+    "price_range": "500 - 2000",
+    "url": "http://www.bestbuy.com/site/amana-25-4-cu-ft-side-by-side-refrigerator-with-thru-the-door-ice-and-water-white/1609858.p?id=1219056780054&skuId=1609858&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9872,
+    "rating": 3
+  },
+  {
+    "objectID": "4612038",
+    "type": "Top load washer",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/amana-3-5-cu-ft-9-cycle-high-efficiency-top-loading-washer-white/4612038.p?id=1219635944642&skuId=4612038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9871,
+    "rating": 4,
+    "price": 399.99
+  },
+  {
+    "objectID": "6917001",
+    "type": "So gas range region",
+    "price_range": "500 - 2000",
+    "url": "http://www.bestbuy.com/site/amana-30-self-cleaning-freestanding-gas-range-stainless-steel/6917001.p?id=1219243023363&skuId=6917001",
+    "free_shipping": false,
+    "popularity": 9870,
+    "rating": 1
+  },
+  {
+    "objectID": "6917038",
+    "type": "So gas range region",
+    "price_range": "500 - 2000",
+    "url": "http://www.bestbuy.com/site/amana-30-self-cleaning-freestanding-gas-range-white/6917038.p?id=1219243023890&skuId=6917038",
+    "free_shipping": false,
+    "popularity": 9869,
+    "rating": 3,
+    "price": 599.99
+  },
+  {
+    "objectID": "6916295",
+    "type": "So elec range region",
+    "price_range": "500 - 2000",
+    "url": "http://www.bestbuy.com/site/amana-4-8-cu-ft-self-cleaning-freestanding-electric-range-black/6916295.p?id=1219243023301&skuId=6916295",
+    "free_shipping": false,
+    "popularity": 9868,
+    "rating": 6
+  },
+  {
+    "objectID": "6916231",
+    "type": "Electric range",
+    "price_range": "500 - 2000",
+    "url": "http://www.bestbuy.com/site/amana-4-8-cu-ft-self-cleaning-freestanding-electric-range-white/6916231.p?id=1219243021317&skuId=6916231&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9866,
+    "rating": 4,
+    "price": 549.99
+  },
+  {
+    "objectID": "3073087",
+    "type": "Top load elec dryer",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/amana-6-5-cu-ft-11-cycle-electric-dryer-white/3073087.p?id=1219570105502&skuId=3073087&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9865,
+    "rating": 2
+  },
+  {
+    "objectID": "3073156",
+    "type": "Top load gas dryer",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/amana-6-5-cu-ft-11-cycle-gas-dryer-white/3073156.p?id=1219570105754&skuId=3073156&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9864,
+    "rating": 3
+  },
+  {
+    "objectID": "4494401",
+    "type": "Non ipad cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-7-tablets-black/4494401.p?id=1219754442674&skuId=4494401&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9863,
+    "rating": 4
+  },
+  {
+    "objectID": "4494503",
+    "type": "Non ipad cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-7-tablets-magenta/4494503.p?id=1219754442677&skuId=4494503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9862,
+    "rating": 2,
+    "price": 24.99
+  },
+  {
+    "objectID": "4494104",
+    "type": "Non ipad cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-hd-10-tablets-black/4494104.p?id=1219754442671&skuId=4494104&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9861,
+    "rating": 5
+  },
+  {
+    "objectID": "4494000",
+    "type": "Non ipad cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-hd-8-tablets-black/4494000.p?id=1219754442675&skuId=4494000&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9860,
+    "rating": 6
+  },
+  {
+    "objectID": "4390200",
+    "type": "Amazon wi-fi",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/amazon-fire-7-tablet-8gb-black/4390200.p?id=1219741360542&skuId=4390200&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9859,
+    "rating": 1,
+    "price": 49.99
+  },
+  {
+    "objectID": "9290115",
+    "type": "Amazon wi-fi",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/amazon-fire-hd-6-16gb-black/9290115.p?id=1219405801473&skuId=9290115&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9858,
+    "rating": 3,
+    "price": 119.99
+  },
+  {
+    "objectID": "9292131",
+    "type": "Amazon wi-fi",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/amazon-fire-hd-6-16gb-white/9292131.p?id=1219405801129&skuId=9292131&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9857,
+    "rating": 1
+  },
+  {
+    "objectID": "8932052",
+    "type": "Amazon wi-fi",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/amazon-fire-hd-7-8gb-black/8932052.p?id=1219378302881&skuId=8932052&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9855,
+    "rating": 6
+  },
+  {
+    "objectID": "4389700",
+    "type": "Amazon wi-fi",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/amazon-fire-hd-10-10-1-tablet-16gb-black/4389700.p?id=1219741360549&skuId=4389700&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9854,
+    "rating": 2
+  },
+  {
+    "objectID": "4390000",
+    "type": "Amazon wi-fi",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/amazon-fire-hd-10-10-1-tablet-32gb-black/4390000.p?id=1219741360547&skuId=4390000&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9853,
+    "rating": 4,
+    "price": 259.99
+  },
+  {
+    "objectID": "4389400",
+    "type": "Amazon wi-fi",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/amazon-fire-hd-8-8-tablet-16gb-black/4389400.p?id=1219741360553&skuId=4389400&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9852,
+    "rating": 4
+  },
+  {
+    "objectID": "4389000",
+    "type": "Amazon wi-fi",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/amazon-fire-hd-8-8-tablet-8gb-black/4389000.p?id=1219741361476&skuId=4389000&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9851,
+    "rating": 1
+  },
+  {
+    "objectID": "9293103",
+    "type": "Amazon wi-fi",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/amazon-fire-hd-kids-edition-6-8gb-black-blue/9293103.p?id=1219405802966&skuId=9293103&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9850,
+    "rating": 4
+  },
+  {
+    "objectID": "9298153",
+    "type": "Amazon wi-fi",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/amazon-fire-hdx-8-9-16gb-black/9298153.p?id=1219405798576&skuId=9298153&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9849,
+    "rating": 4,
+    "price": 379.99
+  },
+  {
+    "objectID": "9306108",
+    "type": "Amazon wi-fi",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/amazon-fire-hdx-8-9-32gb-black/9306108.p?id=1219405798572&skuId=9306108&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9848,
+    "rating": 3
+  },
+  {
+    "objectID": "4390317",
+    "type": "Amazon wi-fi",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/amazon-fire-kids-edition-7-tablet-8gb-blue-black/4390317.p?id=1219741360548&skuId=4390317&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9847,
+    "rating": 3
+  },
+  {
+    "objectID": "4390601",
+    "type": "Amazon wi-fi",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/amazon-fire-kids-edition-7-tablet-8gb-pink-black/4390601.p?id=1219741360540&skuId=4390601&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9846,
+    "rating": 1
+  },
+  {
+    "objectID": "4370400",
+    "type": "Streaming media plyr",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/amazon-fire-tv-2015-model-black/4370400.p?id=1219761769777&skuId=4370400&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9845,
+    "rating": 5
+  },
+  {
+    "objectID": "4387400",
+    "type": "Streaming media plyr",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/amazon-fire-tv-gaming-edition-2015-model-black/4387400.p?id=1219761768718&skuId=4387400&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9844,
+    "rating": 1
+  },
+  {
+    "objectID": "9999119",
+    "type": "Streaming media plyr",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/amazon-fire-tv-stick/9999119.p?id=1219460752591&skuId=9999119&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9843,
+    "rating": 4
+  },
+  {
+    "objectID": "5782232",
+    "type": "Streaming media plyr",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/amazon-fire-wireless-bluetooth-game-controller-black/5782232.p?id=1219156526359&skuId=5782232&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9841,
+    "rating": 2
+  },
+  {
+    "objectID": "9359692",
+    "type": "Bluetooth keyboards",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/amazon-fire-wireless-keyboard-for-fire-hdx-8-9-tablets-black/9359692.p?id=1219405822633&skuId=9359692&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9840,
+    "rating": 2
+  },
+  {
+    "objectID": "9301103",
+    "type": "E reader hardware",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/amazon-kindle-6-4gb-black/9301103.p?id=1219405799947&skuId=9301103&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9839,
+    "rating": 2
+  },
+  {
+    "objectID": "9439005",
+    "type": "E reader hardware",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/amazon-kindle-paperwhite-black/9439005.p?id=1219703845563&skuId=9439005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9838,
+    "rating": 6
+  },
+  {
+    "objectID": "9440019",
+    "type": "E reader hardware",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/amazon-kindle-paperwhite-3g-black/9440019.p?id=1219703845567&skuId=9440019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9837,
+    "rating": 4,
+    "price": 189.99
+  },
+  {
+    "objectID": "9301112",
+    "type": "E reader hardware",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/amazon-kindle-voyage-4gb-wi-fi-3g-black/9301112.p?id=1219405798580&skuId=9301112&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9836,
+    "rating": 6
+  },
+  {
+    "objectID": "9302088",
+    "type": "E reader hardware",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/amazon-kindle-voyage-6-4gb/9302088.p?id=1219405798574&skuId=9302088&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9835,
+    "rating": 2,
+    "price": 199.99
+  },
+  {
+    "objectID": "6599071",
+    "type": "Non ipad cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/amazon-leather-case-for-kindle-paperwhite-onyx-black/6599071.p?id=1218768189499&skuId=6599071&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9834,
+    "rating": 1
+  },
+  {
+    "objectID": "6599099",
+    "type": "Non ipad cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/amazon-leather-case-for-kindle-paperwhite-royal-purple/6599099.p?id=1218768193868&skuId=6599099&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9833,
+    "rating": 3,
+    "price": 39.99
+  },
+  {
+    "objectID": "9359601",
+    "type": "Non ipad cases",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/amazon-origami-case-for-fire-hdx-8-9-black/9359601.p?id=1219405820685&skuId=9359601&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9832,
+    "rating": 1
+  },
+  {
+    "objectID": "9359665",
+    "type": "Non ipad cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/amazon-origami-cover-for-kindle-voyage-black/9359665.p?id=1219405808982&skuId=9359665&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9831,
+    "rating": 4
+  },
+  {
+    "objectID": "9359701",
+    "type": "Non ipad cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/amazon-protective-cover-for-kindle-black/9359701.p?id=1219405821252&skuId=9359701&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9830,
+    "rating": 6
+  },
+  {
+    "objectID": "2314056",
+    "type": "Non ipad cases",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/amazon-standing-origami-case-for-kindle-fire-hdx-7-black/2314056.p?id=1219071546351&skuId=2314056&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9829,
+    "rating": 5
+  },
+  {
+    "objectID": "9359756",
+    "type": "Non ipad cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/amazon-standing-protective-case-for-fire-hd-6-black/9359756.p?id=1219405812661&skuId=9359756&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9828,
+    "rating": 1
+  },
+  {
+    "objectID": "9359647",
+    "type": "Non ipad cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/amazon-standing-protective-case-for-fire-hd-7-black/9359647.p?id=1219405814180&skuId=9359647&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9826,
+    "rating": 6
+  },
+  {
+    "objectID": "2592015",
+    "type": "Misc posa",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/amc-theatres-15-gift-card-multi/2592015.p?id=1219550857028&skuId=2592015&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9825,
+    "rating": 6,
+    "price": 15.0
+  },
+  {
+    "objectID": "6643032",
+    "type": "Misc posa",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/amc-theatres-25-gift-card/6643032.p?id=1219231132386&skuId=6643032&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9824,
+    "rating": 3
+  },
+  {
+    "objectID": "2797746",
+    "type": "Business cases",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/american-tourister-fieldbrook-ii-luggage-set-3-piece-red/2797746.p?id=1219078634295&skuId=2797746&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9823,
+    "rating": 3
+  },
+  {
+    "objectID": "1855155",
+    "type": "So hand mixers",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/americana-by-elite-hand-blender-red/1855155.p?id=1219066204119&skuId=1855155",
+    "free_shipping": false,
+    "popularity": 9822,
+    "rating": 2,
+    "price": 13.99
+  },
+  {
+    "objectID": "4087711",
+    "type": "Networking",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/amped-wireless-1000-mw-wi-fi-signal-booster-black/4087711.p?id=1218454465548&skuId=4087711&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9821,
+    "rating": 2
+  },
+  {
+    "objectID": "8127023",
+    "type": "Networking",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/amped-wireless-high-power-ac1750-wireless-range-extender-white/8127023.p?id=1219689230081&skuId=8127023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9820,
+    "rating": 1,
+    "price": 139.99
+  },
+  {
+    "objectID": "4279308",
+    "type": "Networking",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/amped-wireless-high-power-wireless-n-600mw-smart-repeater-and-range-extender/4279308.p?id=1218468424799&skuId=4279308&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9818,
+    "rating": 1
+  },
+  {
+    "objectID": "6699098",
+    "type": "Networking",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/amped-wireless-high-power-wireless-n-600-mw-gigabit-dual-band-access-point/6699098.p?id=1218782952267&skuId=6699098&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9817,
+    "rating": 4
+  },
+  {
+    "objectID": "9327076",
+    "type": "Networking",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/amped-wireless-highpower-dual-band-wi-fi-range-extender-white-black/9327076.p?id=1219706553631&skuId=9327076&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9816,
+    "rating": 2
+  },
+  {
+    "objectID": "1835046",
+    "type": "Networking",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/amped-wireless-touch-screen-wi-fi-range-extender-gray/1835046.p?id=1219514011812&skuId=1835046&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9815,
+    "rating": 4
+  },
+  {
+    "objectID": "5471152",
+    "type": "Networking",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/amped-wireless-wireless-n-repeater-and-range-extender-black/5471152.p?id=1218652750391&skuId=5471152&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9814,
+    "rating": 3
+  },
+  {
+    "objectID": "1714548",
+    "type": "So hair",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/andis-1-flat-iron-black/1714548.p?id=1219063143988&skuId=1714548",
+    "free_shipping": false,
+    "popularity": 9813,
+    "rating": 3
+  },
+  {
+    "objectID": "3377912",
+    "type": "So shave &#38; groom",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/andis-23-piece-hair-cutting-kit-silver/3377912.p?id=1218397312253&skuId=3377912",
+    "free_shipping": false,
+    "popularity": 9812,
+    "rating": 1
+  },
+  {
+    "objectID": "1714639",
+    "type": "So hair",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/andis-beard-and-mustache-trimmer-silver/1714639.p?id=1219063159146&skuId=1714639",
+    "free_shipping": false,
+    "popularity": 9811,
+    "rating": 5
+  },
+  {
+    "objectID": "5911209",
+    "type": "Appcessories",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/anki-drive-2-car-starter-kit-multi/5911209.p?id=1219172227192&skuId=5911209&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9809,
+    "rating": 4,
+    "price": 149.99
+  },
+  {
+    "objectID": "7202007",
+    "type": "Ipad cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/anna-sui-cabbage-rose-folio-hard-case-for-apple-ipad-air-tan/7202007.p?id=1219257122972&skuId=7202007&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9807,
+    "rating": 3
+  },
+  {
+    "objectID": "1042034",
+    "type": "Trend cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/anna-sui-cabbage-rose-hard-shell-case-for-apple-iphone-6-plus-and-6s-plus-beige-multicolor-floral-pattern/1042034.p?id=1219461894057&skuId=1042034&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9806,
+    "rating": 2
+  },
+  {
+    "objectID": "7188003",
+    "type": "Business cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/anna-sui-cabbage-rose-laptop-sleeve-tan/7188003.p?id=1219257130616&skuId=7188003&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9805,
+    "rating": 1
+  },
+  {
+    "objectID": "7200132",
+    "type": "Trend cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/anna-sui-case-for-samsung-galaxy-s-5-cell-phones-black-purple-white/7200132.p?id=1219257119815&skuId=7200132&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9804,
+    "rating": 2
+  },
+  {
+    "objectID": "7200169",
+    "type": "Trend cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/anna-sui-case-for-samsung-galaxy-s-5-cell-phones-blue-white/7200169.p?id=1219257117871&skuId=7200169&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9803,
+    "rating": 3
+  },
+  {
+    "objectID": "7200196",
+    "type": "Trend cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/anna-sui-case-for-samsung-galaxy-s-5-cell-phones-cream-black/7200196.p?id=1219257126695&skuId=7200196&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9802,
+    "rating": 2
+  },
+  {
+    "objectID": "7224236",
+    "type": "Trend cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/anna-sui-case-for-samsung-galaxy-s-5-cell-phones-tan/7224236.p?id=1219258059802&skuId=7224236&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9801,
+    "rating": 1,
+    "price": 9.99
+  },
+  {
+    "objectID": "7200105",
+    "type": "Trend cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/anna-sui-daisy-delight-case-for-apple-iphone-5-and-5s-green/7200105.p?id=1219257119570&skuId=7200105&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9800,
+    "rating": 1
+  },
+  {
+    "objectID": "7202043",
+    "type": "Ipad cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/anna-sui-folio-hard-case-for-apple-ipad-and-ipad-air-green/7202043.p?id=1219257119447&skuId=7202043&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9799,
+    "rating": 4
+  },
+  {
+    "objectID": "7201113",
+    "type": "Ipad cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/anna-sui-folio-hard-case-for-apple-ipad-mini-ipad-mini-2-and-ipad-mini-3-pink-black/7201113.p?id=1219257130762&skuId=7201113&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9798,
+    "rating": 2
+  },
+  {
+    "objectID": "7201026",
+    "type": "Ipad cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/anna-sui-folio-hard-case-for-apple-ipad-mini-ipad-mini-2-and-ipad-mini-3-purple/7201026.p?id=1219257122745&skuId=7201026&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9797,
+    "rating": 1
+  },
+  {
+    "objectID": "7200018",
+    "type": "Trend cases",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/anna-sui-hearts-case-for-apple-iphone-5-and-5s-black-cream/7200018.p?id=1219257126402&skuId=7200018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9796,
+    "rating": 1,
+    "price": 9.99
+  },
+  {
+    "objectID": "6704373",
+    "type": "Pc components",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/antec-120mm-cpu-cooling-fan-clear/6704373.p?id=1083713296903&skuId=6704373&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9793,
+    "rating": 3
+  },
+  {
+    "objectID": "1259507",
+    "type": "So c-pab",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/antec-lifebar-10-portable-battery-charger-silver/1259507.p?id=1219482735500&skuId=1259507",
+    "free_shipping": false,
+    "popularity": 9792,
+    "rating": 2
+  },
+  {
+    "objectID": "3742027",
+    "type": "Pc components",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/antec-nano-diamond-thermal-compound/3742027.p?id=1218431588535&skuId=3742027&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9791,
+    "rating": 2
+  },
+  {
+    "objectID": "4213417",
+    "type": "So wireless speakers",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/antec-smartbean-bluetooth-adapter-white-black/4213417.p?id=1219707762587&skuId=4213417",
+    "free_shipping": false,
+    "popularity": 9790,
+    "rating": 5
+  },
+  {
+    "objectID": "7441404",
+    "type": "Pc components",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/antec-tricool-80mm-led-cpu-cooling-fan-clear/7441404.p?id=1124432780820&skuId=7441404&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9789,
+    "rating": 3
+  },
+  {
+    "objectID": "6847298",
+    "type": "Ht antennas",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/antennas-direct-clearstream-2v-long-range-hdtv-antenna-black-silver/6847298.p?id=1218809260470&skuId=6847298&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9788,
+    "rating": 4,
+    "price": 99.99
+  },
+  {
+    "objectID": "6761173",
+    "type": "Ht antennas",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/antennas-direct-clearstream-4v-antenna-black-silver/6761173.p?id=1219238019916&skuId=6761173&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9787,
+    "rating": 3
+  },
+  {
+    "objectID": "4268900",
+    "type": "Ht antennas",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/antennas-direct-clearstream-eclipse-amplified-indoor-hdtv-antenna-gray/4268900.p?id=1219734815002&skuId=4268900&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9786,
+    "rating": 1,
+    "price": 79.99
+  },
+  {
+    "objectID": "9747077",
+    "type": "Ht antennas",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/antennas-direct-clearstream-micron-indoor-long-range-digital-tv-antenna-black/9747077.p?id=1218166153600&skuId=9747077&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9785,
+    "rating": 3,
+    "price": 69.99
+  },
+  {
+    "objectID": "2630891",
+    "type": "Ht antennas",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/antennas-direct-clearstream-micron-xg-indoor-long-range-digital-tv-antenna-black/2630891.p?id=1218341073931&skuId=2630891&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9784,
+    "rating": 3
+  },
+  {
+    "objectID": "4875742",
+    "type": "Ht antennas",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/antennas-direct-extended-range-antenna-black-silver/4875742.p?id=1218562658424&skuId=4875742&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9783,
+    "rating": 3
+  },
+  {
+    "objectID": "4948308",
+    "type": "Ht antennas",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/antennas-direct-long-range-digital-tv-antenna-black-silver/4948308.p?id=1218583585089&skuId=4948308&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9782,
+    "rating": 4
+  },
+  {
+    "objectID": "7511001",
+    "type": "Ht antennas",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/antennas-direct-multidirectional-outdoor-hdtv-antenna-black-silver/7511001.p?id=1219276502654&skuId=7511001&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9781,
+    "rating": 2
+  },
+  {
+    "objectID": "3698548",
+    "type": "Flat screen monitor",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/aoc-15-6-widescreen-flat-panel-usb-powered-portable-led-monitor-piano-black/3698548.p?id=1218428680308&skuId=3698548&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9779,
+    "rating": 3
+  },
+  {
+    "objectID": "7292062",
+    "type": "Flat screen monitor",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/aoc-19-5-led-hd-monitor-black/7292062.p?id=1218838639180&skuId=7292062&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9778,
+    "rating": 2
+  },
+  {
+    "objectID": "8163044",
+    "type": "Flat screen monitor",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/aoc-21-5-ips-led-hd-monitor-black/8163044.p?id=1218864514315&skuId=8163044&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9777,
+    "rating": 4,
+    "price": 149.99
+  },
+  {
+    "objectID": "2590062",
+    "type": "Flat screen monitor",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/aoc-23-6-led-hd-monitor-black/2590062.p?id=1219074364999&skuId=2590062&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9774,
+    "rating": 2
+  },
+  {
+    "objectID": "6293177",
+    "type": "Flat screen monitor",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/aoc-27-widescreen-flat-panel-ips-led-hd-monitor-piano-black-silver/6293177.p?id=1218726428129&skuId=6293177&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9773,
+    "rating": 2
+  },
+  {
+    "objectID": "4725415",
+    "type": "Flat screen monitor",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/aoc-27-widescreen-flat-panel-led-hd-monitor-black/4725415.p?id=1218516242338&skuId=4725415&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9772,
+    "rating": 1
+  },
+  {
+    "objectID": "8074044",
+    "type": "Surge/ups",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/apc-back-ups-1080va-ups-black/8074044.p?id=1218863885653&skuId=8074044&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9771,
+    "rating": 4
+  },
+  {
+    "objectID": "5374005",
+    "type": "Surge/ups",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/apc-back-ups-125va-network-ups-white/5374005.p?id=1219120909118&skuId=5374005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9770,
+    "rating": 6
+  },
+  {
+    "objectID": "8057123",
+    "type": "Surge/ups",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/apc-back-ups-600va-ups-black/8057123.p?id=1218863730902&skuId=8057123&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9768,
+    "rating": 2,
+    "price": 74.99
+  },
+  {
+    "objectID": "8062046",
+    "type": "Surge/ups",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/apc-back-ups-700va-ups-black/8062046.p?id=1218863890313&skuId=8062046&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9767,
+    "rating": 2
+  },
+  {
+    "objectID": "9307797",
+    "type": "Surge/ups",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/apc-back-ups-xs-1300-va-tower-ups/9307797.p?id=1218081367657&skuId=9307797&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9766,
+    "rating": 2
+  },
+  {
+    "objectID": "9307831",
+    "type": "Surge/ups",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/apc-power-saving-back-ups-xs-1500-black/9307831.p?id=1218081367518&skuId=9307831&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9765,
+    "rating": 5
+  },
+  {
+    "objectID": "4550200",
+    "type": "Surge/ups",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/apc-surgearrest-3-outlet-and-6-outlet-surge-protectors-white/4550200.p?id=1219765895334&skuId=4550200&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9764,
+    "rating": 6
+  },
+  {
+    "objectID": "3695194",
+    "type": "Itunes dl cards posa",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/apple-10-itunes-gift-cards-3-pack-pink/3695194.p?id=1219093055082&skuId=3695194&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9763,
+    "rating": 5
+  },
+  {
+    "objectID": "3695121",
+    "type": "Itunes dl cards posa",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/apple-100-itunes-gift-card-purple-pink-orange/3695121.p?id=1219093057563&skuId=3695121&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9762,
+    "rating": 2
+  },
+  {
+    "objectID": "3695176",
+    "type": "Itunes dl cards posa",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/apple-25-itunes-gift-card-orange/3695176.p?id=1219093055202&skuId=3695176&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9760,
+    "rating": 6,
+    "price": 25.0
+  },
+  {
+    "objectID": "3695227",
+    "type": "Itunes dl cards posa",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/apple-50-itunes-gift-card-green/3695227.p?id=1219093058224&skuId=3695227&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9759,
+    "rating": 6
+  },
+  {
+    "objectID": "7944078",
+    "type": "Cables/connectors",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/apple-1-6-thunderbolt-cable-white/7944078.p?id=1218862899283&skuId=7944078&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9757,
+    "rating": 1
+  },
+  {
+    "objectID": "7006915",
+    "type": "Chargers",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/apple-12w-usb-power-adapter-white/7006915.p?id=1218821197031&skuId=7006915&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9756,
+    "rating": 2
+  },
+  {
+    "objectID": "7810143",
+    "type": "Apple cpu's",
+    "price_range": "500 - 2000",
+    "url": "http://www.bestbuy.com/site/apple-21-5-imac-intel-core-i5-2-9ghz-8gb-memory-1tb-hard-drive-silver/7810143.p?id=1218861011780&skuId=7810143&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9753,
+    "rating": 3,
+    "price": 1499.99
+  },
+  {
+    "objectID": "6293016",
+    "type": "Apple cpu's",
+    "price_range": "500 - 2000",
+    "url": "http://www.bestbuy.com/site/apple-21-5-imac-with-retina-4k-display-intel-core-i5-3-1ghz-8gb-memory-1tb-hard-drive-silver/6293016.p?id=1218725896674&skuId=6293016&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9752,
+    "rating": 1
+  },
+  {
+    "objectID": "5852008",
+    "type": "Apple cpu's",
+    "price_range": "500 - 2000",
+    "url": "http://www.bestbuy.com/site/apple-27-imac-intel-core-i5-3-2ghz-8gb-memory-1tb-hard-drive-silver/5852008.p?id=1218695416606&skuId=5852008&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9751,
+    "rating": 3
+  },
+  {
+    "objectID": "9034004",
+    "type": "Apple cpu's",
+    "price_range": "> 2000",
+    "url": "http://www.bestbuy.com/site/apple-27-imac-with-retina-5k-display-intel-core-i5-3-5ghz-8gb-memory-1tb-hard-drive-white/9034004.p?id=1219385144900&skuId=9034004&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9746,
+    "rating": 3
+  },
+  {
+    "objectID": "6600069",
+    "type": "Notebook accessories",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/apple-29w-usb-c-power-adapter-white/6600069.p?id=1219663250413&skuId=6600069&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9745,
+    "rating": 3
+  },
+  {
+    "objectID": "6652043",
+    "type": "Connectivity",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/apple-3-3-lightning-to-usb-2-0-cable-white/6652043.p?id=1218803451837&skuId=6652043&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9744,
+    "rating": 3
+  },
+  {
+    "objectID": "5856526",
+    "type": "Notebook accessories",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/apple-45w-magsafe-2-power-adapter-with-magnetic-dc-connector-white/5856526.p?id=1218696408860&skuId=5856526&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9743,
+    "rating": 3
+  },
+  {
+    "objectID": "2253772",
+    "type": "Connectivity",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/apple-6-6-lightning-to-usb-2-0-cable-white/2253772.p?id=1219070443474&skuId=2253772&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9742,
+    "rating": 3
+  },
+  {
+    "objectID": "3453029",
+    "type": "Cables/connectors",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/apple-6-6-thunderbolt-cable-black/3453029.p?id=1219091562273&skuId=3453029&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9741,
+    "rating": 5
+  },
+  {
+    "objectID": "5852654",
+    "type": "Multi media network",
+    "price_range": "50 - 100",
+    "url": "http://www.bestbuy.com/site/apple-airport-express-base-station-white/5852654.p?id=1218695370779&skuId=5852654&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9740,
+    "rating": 1
+  },
+  {
+    "objectID": "4905036",
+    "type": "Streaming media plyr",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/apple-apple-tv-32gb-black/4905036.p?id=1219639903312&skuId=4905036&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9739,
+    "rating": 1
+  },
+  {
+    "objectID": "4907025",
+    "type": "Streaming media plyr",
+    "price_range": "100 - 200",
+    "url": "http://www.bestbuy.com/site/apple-apple-tv-64gb-black/4907025.p?id=1219640986259&skuId=4907025&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9738,
+    "rating": 3
+  },
+  {
+    "objectID": "4468901",
+    "type": "Apple watch",
+    "price_range": "500 - 2000",
+    "url": "http://www.bestbuy.com/site/apple-apple-watch-38mm-space-black-stainless-steel-case-black-sport-band/4468901.p?id=bb4468901&skuId=4468901&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9737,
+    "rating": 1
+  },
+  {
+    "objectID": "4469000",
+    "type": "Apple watch",
+    "price_range": "500 - 2000",
+    "url": "http://www.bestbuy.com/site/apple-apple-watch-38mm-stainless-steel-case-red-sport-band/4469000.p?id=bb4469000&skuId=4469000&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9736,
+    "rating": 2
+  },
+  {
+    "objectID": "4469200",
+    "type": "Apple watch",
+    "price_range": "500 - 2000",
+    "url": "http://www.bestbuy.com/site/apple-apple-watch-42mm-space-black-stainless-steel-case-black-sport-band/4469200.p?id=bb4469200&skuId=4469200&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9735,
+    "rating": 2
+  },
+  {
+    "objectID": "4469201",
+    "type": "Apple watch",
+    "price_range": "500 - 2000",
+    "url": "http://www.bestbuy.com/site/apple-apple-watch-42mm-stainless-steel-case-red-sport-band/4469201.p?id=bb4469201&skuId=4469201&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9734,
+    "rating": 6
+  },
+  {
+    "objectID": "4468900",
+    "type": "Apple watch",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-38mm-gold-aluminum-case-antique-white-sport-band/4468900.p?id=bb4468900&skuId=4468900&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9733,
+    "rating": 2
+  },
+  {
+    "objectID": "4468800",
+    "type": "Apple watch",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-38mm-silver-aluminum-case-blue-sport-band/4468800.p?id=bb4468800&skuId=4468800&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9731,
+    "rating": 1
+  },
+  {
+    "objectID": "4468700",
+    "type": "Apple watch",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-38mm-silver-aluminum-case-orange-sport-band/4468700.p?id=bb4468700&skuId=4468700&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9730,
+    "rating": 1
+  },
+  {
+    "objectID": "4469202",
+    "type": "Apple watch",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-42mm-gold-aluminum-case-midnight-blue-sport-band/4469202.p?id=bb4469202&skuId=4469202&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9729,
+    "rating": 1,
+    "price": 399.0
+  },
+  {
+    "objectID": "4469101",
+    "type": "Apple watch",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-42mm-rose-gold-aluminum-case-stone-sport-band/4469101.p?id=bb4469101&skuId=4469101&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9728,
+    "rating": 6
+  },
+  {
+    "objectID": "4469100",
+    "type": "Apple watch",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-42mm-silver-aluminum-case-blue-sport-band/4469100.p?id=bb4469100&skuId=4469100&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9727,
+    "rating": 5
+  },
+  {
+    "objectID": "4469002",
+    "type": "Apple watch",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-42mm-silver-aluminum-case-orange-sport-band/4469002.p?id=bb4469002&skuId=4469002&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9726,
+    "rating": 4
+  },
+  {
+    "objectID": "4274900",
+    "type": "Apple watch",
+    "price_range": "500 - 2000",
+    "url": "http://www.bestbuy.com/site/apple-apple-watch-38mm-stainless-steel-case-black-sports-band/4274900.p?id=1219733904142&skuId=4274900&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9725,
+    "rating": 1
+  },
+  {
+    "objectID": "4274901",
+    "type": "Apple watch",
+    "price_range": "500 - 2000",
+    "url": "http://www.bestbuy.com/site/apple-apple-watch-38mm-stainless-steel-case-white-sports-band/4274901.p?id=1219733906068&skuId=4274901&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9723,
+    "rating": 2,
+    "price": 549.0
+  },
+  {
+    "objectID": "4275200",
+    "type": "Apple watch",
+    "price_range": "500 - 2000",
+    "url": "http://www.bestbuy.com/site/apple-apple-watch-42mm-stainless-steel-case-milanese-loop/4275200.p?id=1219732457051&skuId=4275200&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9722,
+    "rating": 5,
+    "price": 699.0
+  },
+  {
+    "objectID": "4275003",
+    "type": "Apple watch",
+    "price_range": "500 - 2000",
+    "url": "http://www.bestbuy.com/site/apple-apple-watch-42mm-stainless-steel-case-white-sports-band/4275003.p?id=1219733912906&skuId=4275003&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9721,
+    "rating": 3
+  },
+  {
+    "objectID": "4276800",
+    "type": "Apple first accy",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/apple-apple-watch-magnetic-charging-cable-1-m-white/4276800.p?id=1219733906881&skuId=4276800&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9720,
+    "rating": 5
+  },
+  {
+    "objectID": "4276705",
+    "type": "Apple first accy",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/apple-apple-watch-magnetic-charging-cable-2-m-white/4276705.p?id=1219733910462&skuId=4276705&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9719,
+    "rating": 4
+  },
+  {
+    "objectID": "4274402",
+    "type": "Apple watch",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-38mm-silver-aluminum-case-blue-sports-band/4274402.p?id=1219733911836&skuId=4274402&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9718,
+    "rating": 6
+  },
+  {
+    "objectID": "4274600",
+    "type": "Apple watch",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-38mm-space-gray-aluminum-case-space-gray-sports-band/4274600.p?id=1219733910649&skuId=4274600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9716,
+    "rating": 1
+  },
+  {
+    "objectID": "4274701",
+    "type": "Apple watch",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-42mm-silver-aluminum-case-blue-sports-band/4274701.p?id=1219733910715&skuId=4274701&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9715,
+    "rating": 3
+  },
+  {
+    "objectID": "4274700",
+    "type": "Apple watch",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-42mm-silver-aluminum-case-green-sports-band/4274700.p?id=1219733911276&skuId=4274700&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9714,
+    "rating": 6
+  },
+  {
+    "objectID": "4274800",
+    "type": "Apple watch",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-42mm-silver-aluminum-case-pink-sports-band/4274800.p?id=1219733909702&skuId=4274800&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9713,
+    "rating": 4
+  },
+  {
+    "objectID": "4274601",
+    "type": "Apple watch",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-42mm-silver-aluminum-case-white-sports-band/4274601.p?id=1219733908074&skuId=4274601&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9712,
+    "rating": 4
+  },
+  {
+    "objectID": "4274802",
+    "type": "Apple watch",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-42mm-space-gray-aluminum-case-space-gray-sports-band/4274802.p?id=1219733906250&skuId=4274802&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9711,
+    "rating": 3,
+    "price": 399.0
+  },
+  {
+    "objectID": "1209916",
+    "type": "Notebook accessories",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/apple-battery-charger-white/1209916.p?id=1218234102630&skuId=1209916&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9710,
+    "rating": 4
+  },
+  {
+    "objectID": "9889724",
+    "type": "Connectivity",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/apple-dock-connector-to-vga-adapter-for-apple-ipad-white/9889724.p?id=1218189847810&skuId=9889724&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9708,
+    "rating": 2
+  },
+  {
+    "objectID": "6848136",
+    "type": "Earbud headphones",
+    "price_range": "1 - 50",
+    "url": "http://www.bestbuy.com/site/apple-earpods-with-remote-and-mic-white/6848136.p?id=1218809156050&skuId=6848136&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9707,
+    "rating": 6
+  },
+  {
+    "objectID": "6975104",
+    "type": "Refurb tblt-ereaders",
+    "price_range": "500 - 2000",
+    "url": "http://www.bestbuy.com/site/apple-geek-squad-certified-refurbished-air-2-wi-fi-64gb-gold/6975104.p?id=1219668745235&skuId=6975104&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9706,
+    "rating": 6
+  },
+  {
+    "objectID": "8847072",
+    "type": "Refurbished laptops",
+    "price_range": "500 - 2000",
+    "url": "http://www.bestbuy.com/site/apple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-4gb-memory-128gb-flash-storage-silver/8847072.p?id=1219696698746&skuId=8847072&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 9704,
+    "rating": 1
+  },
+  {
+    "objectID": "6963037",
+    "type": "Refurb tblt-ereaders",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/apple-geek-squad-certified-refurbished-mini-2-with-wi-fi-16gb-silver-white/6963037.p?id=1219668755189&skuId=6963037&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9702,
+    "rating": 2
+  },
+  {
+    "objectID": "6998014",
+    "type": "Refurb tblt-ereaders",
+    "price_range": "200 - 500",
+    "url": "http://www.bestbuy.com/site/apple-geek-squad-certified-refurbished-mini-3-wi-fi-16gb-gold/6998014.p?id=1219667733968&skuId=6998014&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9701,
+    "rating": 3
+  }
+]
